@@ -1,8 +1,8 @@
 let sampleWorkPaths = {
-    "one": "./../assets/portfolio menu.png",
-    "two": "./../assets/portfolio restaurant.png",
-    "three": "./../assets/portfolio gym.png",
-    "four": "./../assets/portfolio salon.png"
+    "one": "./assets/portfolio menu.png",
+    "two": "./assets/portfolio restaurant.png",
+    "three": "./assets/portfolio gym.png",
+    "four": "./assets/portfolio salon.png"
 }
 
 let sampleWorkNames = {
@@ -22,8 +22,8 @@ let sampleWorkDescriptions = {
 let sampleWorkImage = document.getElementById("sampleWork");
 let sampleWorkNameElement = document.getElementById("sampleWorkName");
 let sampleWorkDescriptionElement = document.getElementById("sampleWorkDescription");
-let activeButton = "./../assets/active slide.png";
-let passiveButton = "./../assets/passive slide.png";
+let activeButton = "./assets/active slide.png";
+let passiveButton = "./assets/passive slide.png";
 let previousActiveButton = document.getElementById("firstButton");
 
 
